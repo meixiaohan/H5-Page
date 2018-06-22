@@ -252,3 +252,12 @@ img{
 	height: 100%;
 	display: none;
 }
+
+
+
+#musicbtn{
+	width: 200px;
+	height: 200px;
+	top:0;
+	right: 0;
+}
